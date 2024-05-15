@@ -49,7 +49,7 @@ We appreciate your contributions and look forward to making `Chess.com Analyzer`
 
 ## License
 
-This project is licensed under the MIT License. By contributing to this project, you agree to adhere to the terms and conditions outlined in the [LICENSE](https://github.com/BlackCage/free-chess-analyzer/blob/main/LICENSE) file.
+This project is licensed under the MIT License. By contributing to this project, you agree to adhere to the terms and conditions outlined in the [LICENSE](https://github.com/BlackCage/Free-Chess-Analyzer/blob/main/LICENSE) file.
 
 ## Author
 
