@@ -1,6 +1,6 @@
 ![ChessDotComLogo](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNgJfyb.png)
 
-`Chess.com Analyzer` is a Python package for analyzing chess games played on Chess.com and retrieving detailed analysis results using the Stockfish 16 NNUE engine. Unlike the Chess.com platform, `Chess Analyzer` is completely free, allowing you to analyze chess games without any cost.
+`Chess.com Analyzer` is a Python package for analyzing chess games played on Chess.com and retrieving detailed analysis results using the `Stockfish 16 NNUE` engine. Unlike the Chess.com platform, `Chess.com Analyzer` is completely free, allowing you to analyze chess games without any cost.
 
 ## Features
 
